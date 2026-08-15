@@ -6,7 +6,7 @@
 ## O que este projeto é
 [1-2 frases resumindo o produto — referencia o briefing.md]
 Leia docs/briefing.md primeiro para contexto de produto.
-Leia docs/arquitetura.md para o desenho técnico completo.
+Leia docs/arquitecture.md para o desenho técnico completo.
 
 ## Stack (não desviar sem atualizar docs/arquitetura.md)
 - Linguagem: [ex: TypeScript]
