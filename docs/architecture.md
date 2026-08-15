@@ -1,4 +1,4 @@
-# Arquitetura — [Nome do Projeto]
+# architecture — [Nome do Projeto]
 
 > Baseado em docs/briefing.md. Referencie o requisito do briefing 
 > que motivou cada decisão técnica.
